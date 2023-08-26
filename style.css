@@ -425,6 +425,7 @@ border: 1px solid rgba(255, 255, 255, 0.15);
  }
  
  .title{
+  font-size: x-large;
     text-align: center;
     color: rgb(254, 254, 254);
     font-family: Georgia, 'Times New Roman', Times, serif;
