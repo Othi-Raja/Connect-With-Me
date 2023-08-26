@@ -7,7 +7,7 @@ html,body {
     --c3: white;
     --c4:rgba(255, 255, 255, 0);
     --bg: var(--c3);
-    --d: 6900ms;
+    --d: 4000ms;
     --e: cubic-bezier(0.76, 0, 0.24, 1);
     
     text-transform: capitalize;
