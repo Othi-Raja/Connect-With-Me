@@ -171,7 +171,7 @@ li>a{
   border-radius: 10px;
 
  }
- button:hover{
+ button:hover:active{
   background-color: rgba(255, 255, 255, 0.345);
   border: 3px solid rgb(255, 255, 255);
   box-shadow: 4px 4px #ffffff;
