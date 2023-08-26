@@ -434,7 +434,7 @@ border: 1px solid rgba(255, 255, 255, 0.15);
  }
  .title>a{
   font-weight: bolder;
-    padding: 0px 20px 2px 20px;
+    padding: 0px 20px 5px 20px;
 background: rgba(141, 141, 141, 0.651);
 border-radius: 16px  16px 0px  0px;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
