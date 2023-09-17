@@ -143,9 +143,7 @@ a{
  
 }
  /* profile filters */
- img{
-    /* filter:grayscale(100%); */
- }
+ 
 ul{
     list-style-type: none;
     text-transform: capitalize;
@@ -366,9 +364,7 @@ a{
  
 }
  
- img{
-    
- }
+ 
 ul{
     list-style-type: none;
     text-transform: capitalize;
